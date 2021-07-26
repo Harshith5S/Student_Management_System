@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1623993170 source:c:\users\harshith s\documents\fs lab programs\sms\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<string>
+	<string_view>
+	<regex>
+	<stdio.h>
+
