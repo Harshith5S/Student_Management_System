@@ -55,7 +55,7 @@ void student::login()
         pword[i]='\0';
         i=0;
 
-        if (strcmp(uname,"student")==0 && strcmp(pword,"sms")==0)
+        if (strcmp(uname,"admin")==0 && strcmp(pword,"pass123")==0)
         {
             cout << "\n\t\t\tLOGIN IS SUCCESSFUL";
             getch();
