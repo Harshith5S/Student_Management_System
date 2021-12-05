@@ -1,2 +1,2 @@
-# student_management_system
+# Student_Management_System
 document processing using c++
